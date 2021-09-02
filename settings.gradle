@@ -1,0 +1,2 @@
+include ':app', ':uikit'
+project(':uikit').projectDir = new File('android-java-chat-ui-kit-3/uikit')
